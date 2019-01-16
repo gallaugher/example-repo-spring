@@ -13,6 +13,7 @@ class ViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
         print("😎😎 viewDidLoad just executed!")
+        print("I'm testing a GitHub repo")
     }
 
     @IBAction func showButtonPressed(_ sender: UIButton) {
